@@ -1,0 +1,1 @@
+add_executable(LaForum-Backend main.cpp)
